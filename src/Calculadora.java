@@ -4,4 +4,8 @@ public class Calculadora {
         System.out.println("Holaaaa qlq");
     }
 
+    public double sumar(double uno, double dos){
+        return uno + dos;
+    }
+
 }
