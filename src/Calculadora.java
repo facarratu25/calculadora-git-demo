@@ -9,4 +9,8 @@ public class Calculadora {
         return uno - dos;
     }
 
+    public double sumar(double uno, double dos){
+        return uno + dos;
+    }
+
 }
